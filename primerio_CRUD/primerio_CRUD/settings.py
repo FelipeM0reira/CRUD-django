@@ -54,7 +54,7 @@ ROOT_URLCONF = 'primerio_CRUD.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['portal/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
