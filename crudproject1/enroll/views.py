@@ -1,7 +1,9 @@
-from django.shortcuts import render
+from django.shortcuts import render, HttpResponseRedirect
 from .forms import StudentRegistration
 from .models import User
 # Create your views here.
+
+# This Function Will Add new Item and Show All Items
 
 
 def add_show(request):
@@ -13,7 +15,17 @@ def add_show(request):
             pw = fm.cleaned_data['password']
             reg = User(name=nm, email=em, password=pw)
             reg.save()
-
+            fm = StudentRegistration()
     else:
         fm = StudentRegistration()
-    return render(request, 'enroll/addandshow.html', {'form': fm})
+    stud = User.objects.all()
+    return render(request, 'enroll/addandshow.html', {'form': fm, 'stu': stud})
+
+    # This Function will Delete
+
+
+def delete_data(request, id):
+    if request.method == 'POST':
+        pi = User.objects.get(pk=id)
+        pi.delete()
+    return HttpResponseRedirect('/')
