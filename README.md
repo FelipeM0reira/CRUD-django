@@ -3,16 +3,6 @@
 
 ![Imagens do projeto](https://user-images.githubusercontent.com/104744113/171772572-0fb81c04-38aa-4144-971d-dc509eb59055.png)
 
-## <h1 align="center">Índice</h1> 
-
-* [CRUD Django](#crud-django)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades do projeto](#funcionalidades-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-
 # <h1 align="center">🧾 Descrição do projeto</h1>
 
 Projeto CRUD de modelo de visualização baseada em Função. Ou seja o mesmo realiza todas as funções do "CRUD", Create, Read, Update e Delete. E para implementalas fiz um sistema de cadastro de alunos.
@@ -32,3 +22,12 @@ Projeto CRUD de modelo de visualização baseada em Função. Ou seja o mesmo re
 
 - `Funcionalidade 4`: Read.
 ![Users](https://user-images.githubusercontent.com/104744113/171780342-24550b4f-3cdd-4515-81c4-891d6ac5b76d.PNG)
+
+# <h1 align="center">🛰️ Tecnologias utilizadas</h1>
+- Python 3.10.4.
+- Windows 10.
+- Django 4.0.4.
+
+# <h1 align="center">👨‍💻 Autor</h1>
+
+ [<img src="https://avatars.githubusercontent.com/u/104744113?v=4" width=115><br><sub>Felipe Moreira</sub>](https://github.com/FelipeM0reira) 
