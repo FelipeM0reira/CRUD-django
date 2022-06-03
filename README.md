@@ -1,11 +1,11 @@
- # <h1 align="center"> CRUD Django </h1>
+ # <h1 align="center">CRUD Django</h1>
 
 
-![Imagem do projeto](https://user-images.githubusercontent.com/104744113/171772572-0fb81c04-38aa-4144-971d-dc509eb59055.png)
+![Imagens do projeto](https://user-images.githubusercontent.com/104744113/171772572-0fb81c04-38aa-4144-971d-dc509eb59055.png)
 
 ## Índice 
 
-* [Título e Imagem do projeto](#Título-e-Imagem-do-projeto)
+* [CRUD Djando e Imagens do projeto](#CRUD Djando-e-Imagem-do-projeto)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
