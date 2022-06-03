@@ -5,7 +5,7 @@
 
 ## Índice 
 
-* [Título e Imagem do projeto](#Título-e-Imagem-do-projeto)
+* [CRUD Django e Imagem do projeto](#CRUD-Django-e-imagem-do-projeto)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
