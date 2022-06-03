@@ -1,4 +1,4 @@
-## Título e Imagem de capa
+## Título e Imagem do projeto
 # <h1 align="center"> CRUD-django </h1>
 
 
@@ -6,7 +6,7 @@
 
 ## Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem do projeto](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
