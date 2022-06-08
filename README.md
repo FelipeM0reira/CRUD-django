@@ -5,7 +5,7 @@
 
 # <h1 align="center">🧾 Descrição do projeto</h1>
 
-Projeto CRUD de modelo de visualização baseada em Função. Ou seja o mesmo realiza todas as funções do "CRUD", Create, Read, Update e Delete. E para implementá-las fiz um sistema de cadastro de alunos.
+- Projeto CRUD de modelo de visualização baseada em Função. Ou seja o mesmo realiza todas as funções do "CRUD", Create, Read, Update e Delete. E para implementá-las fiz um sistema de cadastro de alunos.
 
 # <h1 align="center">🔨 Funcionalidades do projeto</h1>
 - `Funcionalidade 1`: Create.
